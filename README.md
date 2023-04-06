@@ -5,3 +5,9 @@ A crowdfunding dApp is a decentralized application that allows individuals or or
 1. thirdweb
 2. metamask
 3. reactjs
+4. hardhat
+5. ethers.js
+6. thirdweb-ipfs
+
+#Blockchain Network
+Polygon Mumbai TestNet
