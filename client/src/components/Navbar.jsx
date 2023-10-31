@@ -17,7 +17,7 @@ const Navbar = () => {
 	return (
 		<div className="flex md:flex-row flex-col-reverse justify-between mb-[35px] gap-6">
 			<div className="font-montserrat text-[#2196f3] text-6xl">
-				CrowdFunding dApp
+				Go_Fund
 			</div>
 
 			<div className="sm:flex hidden flex-row justify-end gap-4">

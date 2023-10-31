@@ -62,7 +62,7 @@ const CampaignDetails = () => {
         <div className="flex-1 flex-col">
           <MediaRenderer src={state.image} alt="campaign" style={imageStyle} />
           {/* <img src="https://gateway.ipfscdn.io/ipfs/Qmcj59Jz2TZFihtwLWRbtQBvBf4rxTbXZwT7c4CgWPkQN3/289559627-H.jpg" alt="campaign" className="w-full h-[410px] object-cover rounded-xl" /> */}
-          {console.log(state.image)}
+          {/* {console.log(state.image)} */}
           <div className="relative w-full h-[5px] bg-[#3a3a43] mt-2">
             <div className="absolute h-full bg-[#95d8f5]" style={{ width: calculateBarPercentage(state.target, state.amountCollected)+"%", maxWidth: '100%' }}>
              {/* bg-[#4acd8d] */}
